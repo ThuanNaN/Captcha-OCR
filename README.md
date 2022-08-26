@@ -6,7 +6,7 @@
 curl -LO https://github.com/AakashKumarNain/CaptchaCracker/raw/master/captcha_images_v2.zip
 unzip -qq captcha_images_v2.zip 
 ```
-### 2. Env
+### 2. Enviroment
 Pytoch > v1.7
 
 ### 3. Usage
